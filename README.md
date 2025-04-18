@@ -40,7 +40,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/framer-motion-practice.git
+git clone https://github.com/developer-ravi-03/framer-motion-practice.git
 
 # Navigate to the project directory
 cd framer-motion-practice
@@ -49,14 +49,12 @@ cd framer-motion-practice
 npm install
 
 # Start the development server
-npm start
+npm run dev
 ```
 
-- 📌 NOTE:
+## 📌 NOTE:
+
 - This file contains multiple Framer Motion practice components (divs, images, article scroll effects).
--
 - 👉 To run a specific example, simply **uncomment** the desired component and **comment out** the rest.
--
 - This helps in isolating the animation you want to test or modify.
--
 - Happy Animating! ✨
