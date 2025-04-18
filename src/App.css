@@ -1,0 +1,30 @@
+@import "tailwindcss";
+*{
+  font-family: 'Courier New', Courier, monospace;
+  color: #f7f7f7;
+}
+body{
+  background-color: #070707;
+  color: aliceblue;
+  padding: 50px;
+}
+
+.box{
+  height: 100px;
+border-radius: 5px;
+border: 5px solid red;
+  width: 100px;
+  background-color: #f7f7f7;
+}
+.heading{
+  color: #f7f7f7;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.image{
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
